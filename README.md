@@ -1,12 +1,12 @@
 # 🚢 Shipping Company Cost Calculator
 
-## 📘 Project Overview
+## Project Overview
 
 The program calculates the optimal shipping cost from China to Germany using OOP principles, container volume, and weight constraints. It supports different products and shipping container options.
 
 ---
 
-## 🛠️ Features
+## Features
 
 - Object-Oriented Design with:
   - Classes for `Item`, `Container`, `Calculation`
